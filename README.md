@@ -4,5 +4,8 @@
 
 This is an implementation of simple linear regression using gradient descent.
 
-This implementations is based on Andrew NG's video about linear regression. You can find his great video series on deep learning here:
+This implementation is based on Andrew NG's video about linear regression. You can find his great video series on deep learning here:
 https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+
+You can also try out my implementation in Google Colab here:
+https://colab.research.google.com/drive/1CIbstuKCI0tbbNNPG8cOGlSDtnwDO2HA
